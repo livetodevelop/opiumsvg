@@ -1,4 +1,5 @@
-How to make your own Opium link:
+made by Lucas because I'm cooooll
+### How to make your own Opium link:
 1. make sure you have your own github account and are signed in
 2. fork this repository
 3. head to https://www.jsdelivr.com/github
